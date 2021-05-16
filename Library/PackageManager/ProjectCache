@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637567268830372525
-    m_Hash: 1274333733
+      ticks: 637568008043443400
+    m_Hash: 74122999
   m_LockFileStatus:
     m_FilePath: C:/Users/aidan/OneDrive/Documents/Unity Projects/TOGameJamGame/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637567268842275958
-    m_Hash: 959069575
+      ticks: 637568008063430159
+    m_Hash: 3467057333
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -389,12 +389,12 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
-    - packageId: com.unity.2d.spriteshape@5.1.0
+    - packageId: com.unity.2d.spriteshape@5.1.1
       testable: 0
       isDirectDependency: 1
-      version: 5.1.0
+      version: 5.1.1
       source: 1
-      resolvedPath: C:\Users\aidan\OneDrive\Documents\Unity Projects\TOGameJamGame\Library\PackageCache\com.unity.2d.spriteshape@5.1.0
+      resolvedPath: C:\Users\aidan\OneDrive\Documents\Unity Projects\TOGameJamGame\Library\PackageCache\com.unity.2d.spriteshape@5.1.1
       assetPath: Packages/com.unity.2d.spriteshape
       name: com.unity.2d.spriteshape
       displayName: 2D SpriteShape
@@ -512,13 +512,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637408852810000000
+      datePublishedTicks: 637478930260000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: c97def465b1932276762fc13f4cfee58da99d5e9
+        revision: 3cf59035d02a34d40d678f2cd5f1c65515a8347e
         path: 
     - packageId: com.unity.2d.tilemap@1.0.0
       testable: 0
