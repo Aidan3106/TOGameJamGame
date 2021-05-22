@@ -602,7 +602,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1204294999}
   - component: {fileID: 1204295000}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: spritesheet_66
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -617,8 +617,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1204294998}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.003700018, y: 0.42770004, z: 10}
-  m_LocalScale: {x: 1.2181787, y: 0.92570883, z: 1}
+  m_LocalPosition: {x: 0.0233, y: 0.0358, z: 11.61}
+  m_LocalScale: {x: 1.0790169, y: 0.85757667, z: 1}
   m_Children: []
   m_Father: {fileID: 422390122}
   m_RootOrder: 1
@@ -25035,6 +25035,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 826b85103b1ff46428570655f3eb72ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  player: {fileID: 0}
 --- !u!61 &1251085271
 BoxCollider2D:
   m_ObjectHideFlags: 0

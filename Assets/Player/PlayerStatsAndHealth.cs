@@ -6,7 +6,7 @@ public class PlayerStatsAndHealth : MonoBehaviour
 {
     float maxHealthPlayer = 100.0f;
     float currentHealthPlayer;
-    public float damageDeal = 0.0f;
+    public float playerdamageDeal = 0.0f;
     float playerDefense = 2.0f;
     void Start()
     {
