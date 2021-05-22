@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerStatsAndHealth : MonoBehaviour
 {
+    public Animator animator;
     float maxHealthPlayer = 100.0f;
     float currentHealthPlayer;
     public float playerdamageDeal = 0.0f;
@@ -16,7 +17,7 @@ public class PlayerStatsAndHealth : MonoBehaviour
     public void TakeDamagePlayer(float damageTaken)
     {
         currentHealthPlayer = currentHealthPlayer - (damageTaken/playerDefense);
-
+        animator.SetTrigger("Hurt");
         if (currentHealthPlayer <= 0.0f)
         {
             PlayerDie();
@@ -25,6 +26,7 @@ public class PlayerStatsAndHealth : MonoBehaviour
 
     void PlayerDie()
     {
+        animator.SetBool("IsDead", true);
         //We a reset furtcion to restart the level or game over menu.
     }
 }
