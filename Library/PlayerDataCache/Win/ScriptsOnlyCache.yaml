@@ -1241,4 +1241,5 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/GameOverScreen.unity
   - Assets/Scenes/WinSceneLevel1.unity
-  playerPath: D:/Backup Unity projects/The TO Game Jam game.exe
+  playerPath: C:/Users/aidan/OneDrive/Documents/Unity Projects/TOGameJamGame/The
+    Game/The TO Game Jam game.exe
