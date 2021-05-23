@@ -1,0 +1,504 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.985; Version 2004; 64bit' Language: 'en' Physical Memory: 16196 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/aidan/OneDrive/Documents/Unity Projects/TOGameJamGame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51518
+Successfully changed project path to: C:/Users/aidan/OneDrive/Documents/Unity Projects/TOGameJamGame
+C:/Users/aidan/OneDrive/Documents/Unity Projects/TOGameJamGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 64.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/aidan/OneDrive/Documents/Unity Projects/TOGameJamGame/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f11)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   27.21.14.5771
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56076
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002776 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 66.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.820 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001692 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 72.03 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.563 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.2 MB.
+System memory in use after: 90.2 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2403.
+Total: 3.017200 ms (FindLiveObjects: 0.550000 ms CreateObjectMapping: 0.181300 ms MarkObjects: 2.122600 ms  DeleteObjects: 0.161100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001762 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.746 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1953 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.1 MB.
+System memory in use after: 90.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2406.
+Total: 4.005600 ms (FindLiveObjects: 0.300500 ms CreateObjectMapping: 0.168000 ms MarkObjects: 3.413800 ms  DeleteObjects: 0.121600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Enemries/Monster_Creatures_Fantasy(Version 1.3)/SkeletonBossStats.cs
+  artifactKey: Guid(b34d715e0174e8646b933c8b8b184734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/Monster_Creatures_Fantasy(Version 1.3)/SkeletonBossStats.cs using Guid(b34d715e0174e8646b933c8b8b184734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd969902b7d032d30f152fc862920f2de') in 0.073154 seconds
+  Import took 0.082728 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001669 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.321 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1953 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.3 MB.
+System memory in use after: 90.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2409.
+Total: 3.600500 ms (FindLiveObjects: 0.244200 ms CreateObjectMapping: 0.101300 ms MarkObjects: 3.125100 ms  DeleteObjects: 0.127800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 226.143858 seconds.
+  path: Assets/Enemries/Monster_Creatures_Fantasy(Version 1.3)/SkeletonBossStats.cs
+  artifactKey: Guid(b34d715e0174e8646b933c8b8b184734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/Monster_Creatures_Fantasy(Version 1.3)/SkeletonBossStats.cs using Guid(b34d715e0174e8646b933c8b8b184734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5df0016b53523872d0995040dee7e724') in 0.010457 seconds
+  Import took 0.018502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 84.617603 seconds.
+  path: Assets/Enemries/SkeletonBoss
+  artifactKey: Guid(d5f64774e73ff0b4292e80683d5d3b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss using Guid(d5f64774e73ff0b4292e80683d5d3b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e237eae5785155860716aedfcc226cc7') in 0.021312 seconds
+  Import took 0.029845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053262 seconds.
+  path: Assets/Enemries/SkeletonBoss/Attack.png
+  artifactKey: Guid(1a05cc02a26a5f748b8b6fccd805380f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/Attack.png using Guid(1a05cc02a26a5f748b8b6fccd805380f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72b3f4622cf8985c449f4932265019f9') in 0.234211 seconds
+  Import took 0.241316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Enemries/SkeletonBoss/Take Hit.png
+  artifactKey: Guid(d0a48ac491cb67c479b4db08f8f1b07e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/Take Hit.png using Guid(d0a48ac491cb67c479b4db08f8f1b07e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec5a650cb39cf2cd2a0ed5f5e27e7950') in 0.053912 seconds
+  Import took 0.060641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Enemries/SkeletonBoss/Attack3.png
+  artifactKey: Guid(104db8c0428e29e4ba5c8aecbbcc007a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/Attack3.png using Guid(104db8c0428e29e4ba5c8aecbbcc007a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0220c0c41d2f0e2261ad8885977187a1') in 0.054176 seconds
+  Import took 0.063254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Enemries/SkeletonBoss/Attack2.png
+  artifactKey: Guid(0fe826ccf9c3976448646b4493fc7a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/Attack2.png using Guid(0fe826ccf9c3976448646b4493fc7a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0f7b343c816790adca5d702013b3634') in 0.060118 seconds
+  Import took 0.065638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Enemries/SkeletonBoss/Sword_sprite.png
+  artifactKey: Guid(b77efddb420a6554993fb8124cf7870a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/Sword_sprite.png using Guid(b77efddb420a6554993fb8124cf7870a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03bc141aacf43003ac739ad2088f1fec') in 0.066302 seconds
+  Import took 0.074309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Enemries/SkeletonBoss/Idle.png
+  artifactKey: Guid(d3f239eeb31e75046b2118a82ca173dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/Idle.png using Guid(d3f239eeb31e75046b2118a82ca173dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f65db3a241e63068bca6dd3d7a984b4') in 0.041938 seconds
+  Import took 0.050124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Enemries/SkeletonBoss/Walk.png
+  artifactKey: Guid(1f4f9cbf73ceae34291e31f84bdc9e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/Walk.png using Guid(1f4f9cbf73ceae34291e31f84bdc9e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '650f9bfa761cedd537d6836f7bd77278') in 0.038333 seconds
+  Import took 0.044771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Enemries/SkeletonBoss/Shield.png
+  artifactKey: Guid(e0a3f017a3c80ba4faed620d22132b8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/Shield.png using Guid(e0a3f017a3c80ba4faed620d22132b8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f91d3001309930af484c3858fa0923ba') in 0.034178 seconds
+  Import took 0.041433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Enemries/SkeletonBoss/Death.png
+  artifactKey: Guid(b422f391ec90e254a890848ccd4f74db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/Death.png using Guid(b422f391ec90e254a890848ccd4f74db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52652d891c52f80269359bd2ecba5ddc') in 0.041986 seconds
+  Import took 0.047949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 871.333626 seconds.
+  path: Assets/Enemries/Monster_Creatures_Fantasy(Version 1.3)/SkeletonBossStats.cs
+  artifactKey: Guid(664271283dc93c64eac3da94e5d7edb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/Monster_Creatures_Fantasy(Version 1.3)/SkeletonBossStats.cs using Guid(664271283dc93c64eac3da94e5d7edb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72f1bb3ade2ff833361125ceaa8e65ea') in 0.003315 seconds
+  Import took 0.012685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001505 seconds.
+  path: Assets/Enemries/Monster_Creatures_Fantasy(Version 1.3)/SkeletonBossStats.cs
+  artifactKey: Guid(664271283dc93c64eac3da94e5d7edb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/Monster_Creatures_Fantasy(Version 1.3)/SkeletonBossStats.cs using Guid(664271283dc93c64eac3da94e5d7edb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72f1bb3ade2ff833361125ceaa8e65ea') in 0.003350 seconds
+  Import took 0.010393 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001794 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.292 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1953 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.6 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2488.
+Total: 3.312900 ms (FindLiveObjects: 0.516500 ms CreateObjectMapping: 0.219700 ms MarkObjects: 2.439600 ms  DeleteObjects: 0.134600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.681909 seconds.
+  path: Assets/Enemries/SkeletonBossStats.cs
+  artifactKey: Guid(b34d715e0174e8646b933c8b8b184734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBossStats.cs using Guid(b34d715e0174e8646b933c8b8b184734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '822ef0b1f7177d40a42fdba3417f89dd') in 0.008487 seconds
+  Import took 0.015582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040476 seconds.
+  path: Assets/Enemries/SkeletonBossStats.cs
+  artifactKey: Guid(b34d715e0174e8646b933c8b8b184734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBossStats.cs using Guid(b34d715e0174e8646b933c8b8b184734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '822ef0b1f7177d40a42fdba3417f89dd') in 0.003112 seconds
+  Import took 0.009818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 268.471874 seconds.
+  path: Assets/Enemries/SkeletonBoss/Sword_sprite.png
+  artifactKey: Guid(b77efddb420a6554993fb8124cf7870a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/Sword_sprite.png using Guid(b77efddb420a6554993fb8124cf7870a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca03f8c93347954d20ddac4233e4998e') in 0.110221 seconds
+  Import took 0.119638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.404155 seconds.
+  path: Assets/Enemries/SkeletonBoss/Idle.png
+  artifactKey: Guid(d3f239eeb31e75046b2118a82ca173dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/Idle.png using Guid(d3f239eeb31e75046b2118a82ca173dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da0bbc7d1d67c63b7e2fa092a2ecc818') in 0.043195 seconds
+  Import took 0.050771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.192399 seconds.
+  path: Assets/Enemries/SkeletonBoss/Walk.png
+  artifactKey: Guid(1f4f9cbf73ceae34291e31f84bdc9e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/Walk.png using Guid(1f4f9cbf73ceae34291e31f84bdc9e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ea52c0fd4267788607ee202dcc14d9e') in 0.024814 seconds
+  Import took 0.033406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.456015 seconds.
+  path: Assets/Enemries/SkeletonBoss/Take Hit.png
+  artifactKey: Guid(d0a48ac491cb67c479b4db08f8f1b07e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/Take Hit.png using Guid(d0a48ac491cb67c479b4db08f8f1b07e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dcbac5e4109574d8e4167348ce7f3bc') in 0.037244 seconds
+  Import took 0.046768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.619055 seconds.
+  path: Assets/Enemries/SkeletonBoss/Attack.png
+  artifactKey: Guid(1a05cc02a26a5f748b8b6fccd805380f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/Attack.png using Guid(1a05cc02a26a5f748b8b6fccd805380f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dde8a8ca186b4281c8d8e7511aef08a') in 0.056692 seconds
+  Import took 0.065740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.196919 seconds.
+  path: Assets/Enemries/Monster_Creatures_Fantasy(Version 1.3)/Skeleton/Death.png
+  artifactKey: Guid(f9fa53c81c8474c409e15c1f6a5b4d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/Monster_Creatures_Fantasy(Version 1.3)/Skeleton/Death.png using Guid(f9fa53c81c8474c409e15c1f6a5b4d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f534aa46d8285fbbd3d3e79e4188abad') in 0.027265 seconds
+  Import took 0.034823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.853071 seconds.
+  path: Assets/Enemries/SkeletonBoss/IdleSkeletonAnimation.anim
+  artifactKey: Guid(4fc2c0b1d9f470e4fb7c3a430ffdb310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/IdleSkeletonAnimation.anim using Guid(4fc2c0b1d9f470e4fb7c3a430ffdb310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ca0f2369069f963006e893f22e227da') in 0.014686 seconds
+  Import took 0.019645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.693053 seconds.
+  path: Assets/Enemries/SkeletonBoss/IdleSkeletonBossAnimation.anim
+  artifactKey: Guid(4fc2c0b1d9f470e4fb7c3a430ffdb310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/IdleSkeletonBossAnimation.anim using Guid(4fc2c0b1d9f470e4fb7c3a430ffdb310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '659caa7f96dbe2665f7a851b5ef458bb') in 0.010464 seconds
+  Import took 0.019000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.542934 seconds.
+  path: Assets/Enemries/SkeletonBoss/SheildSkeletonAnimation.anim
+  artifactKey: Guid(6a717b01c84172843a267c5536d76844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/SheildSkeletonAnimation.anim using Guid(6a717b01c84172843a267c5536d76844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6897856631056b33d103d442bd44293a') in 0.012340 seconds
+  Import took 0.018071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001524 seconds.
+  path: Assets/Enemries/SkeletonBoss/SheildSkeletonAnimation.anim
+  artifactKey: Guid(6a717b01c84172843a267c5536d76844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/SheildSkeletonAnimation.anim using Guid(6a717b01c84172843a267c5536d76844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6897856631056b33d103d442bd44293a') in 0.004426 seconds
+  Import took 0.011096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.629472 seconds.
+  path: Assets/Enemries/SkeletonBoss/SheildSkeletonBossAnimation.anim
+  artifactKey: Guid(6a717b01c84172843a267c5536d76844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/SheildSkeletonBossAnimation.anim using Guid(6a717b01c84172843a267c5536d76844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2752cb07dbee5b08caefe542194b00c') in 0.012573 seconds
+  Import took 0.019323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.318550 seconds.
+  path: Assets/Enemries/SkeletonBoss/WalkSkeletonAnimation.anim
+  artifactKey: Guid(6df4c694a578cf74c9319339c262e184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/WalkSkeletonAnimation.anim using Guid(6df4c694a578cf74c9319339c262e184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69795d19feff5285bfc98c853c780660') in 0.009340 seconds
+  Import took 0.017548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001685 seconds.
+  path: Assets/Enemries/SkeletonBoss/WalkSkeletonAnimation.anim
+  artifactKey: Guid(6df4c694a578cf74c9319339c262e184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/WalkSkeletonAnimation.anim using Guid(6df4c694a578cf74c9319339c262e184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69795d19feff5285bfc98c853c780660') in 0.004332 seconds
+  Import took 0.012996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.351452 seconds.
+  path: Assets/Enemries/SkeletonBoss/WalkSkeletonBossAnimation.anim
+  artifactKey: Guid(6df4c694a578cf74c9319339c262e184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/WalkSkeletonBossAnimation.anim using Guid(6df4c694a578cf74c9319339c262e184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffbcd310d24c315af175cfb0c6a55977') in 0.010681 seconds
+  Import took 0.017682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035162 seconds.
+  path: Assets/Enemries/SkeletonBoss/TakeHitSkeletonAnimation.anim
+  artifactKey: Guid(766e4b3a7c424b44dba3ef58a6abb503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/TakeHitSkeletonAnimation.anim using Guid(766e4b3a7c424b44dba3ef58a6abb503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7871142779c8c84f869e2bc98bacffdf') in 0.012005 seconds
+  Import took 0.020880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.531079 seconds.
+  path: Assets/Enemries/SkeletonBoss/TakeHitSkeletonBossAnimation.anim
+  artifactKey: Guid(766e4b3a7c424b44dba3ef58a6abb503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/TakeHitSkeletonBossAnimation.anim using Guid(766e4b3a7c424b44dba3ef58a6abb503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ca23bbb069acdfde6fdad0ecdcedce2') in 0.012695 seconds
+  Import took 0.018874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039199 seconds.
+  path: Assets/Enemries/SkeletonBoss/DeathSkeletonAnimation.anim
+  artifactKey: Guid(570f350f6f433a14c85ed95dc7ed8b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/DeathSkeletonAnimation.anim using Guid(570f350f6f433a14c85ed95dc7ed8b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6287470f6fd0985254d86f963eba77e3') in 0.009793 seconds
+  Import took 0.016396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000734 seconds.
+  path: Assets/Enemries/SkeletonBoss/DeathSkeletonAnimation.anim
+  artifactKey: Guid(570f350f6f433a14c85ed95dc7ed8b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/DeathSkeletonAnimation.anim using Guid(570f350f6f433a14c85ed95dc7ed8b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6287470f6fd0985254d86f963eba77e3') in 0.004846 seconds
+  Import took 0.009416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.160821 seconds.
+  path: Assets/Enemries/SkeletonBoss/DeathSkeletonBossAnimation.anim
+  artifactKey: Guid(570f350f6f433a14c85ed95dc7ed8b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/DeathSkeletonBossAnimation.anim using Guid(570f350f6f433a14c85ed95dc7ed8b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cf0d9e6dc89c87e49c39685821fea1e') in 0.011386 seconds
+  Import took 0.020113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.901426 seconds.
+  path: Assets/Enemries/SkeletonBoss/Attack1SkeletonAnimation.anim
+  artifactKey: Guid(228c77d35c9285749bb9fbba94b0fa30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/Attack1SkeletonAnimation.anim using Guid(228c77d35c9285749bb9fbba94b0fa30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b850d0dddea90d17f3b915cfbc2d401') in 0.013162 seconds
+  Import took 0.020987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005170 seconds.
+  path: Assets/Enemries/SkeletonBoss/Attack1SkeletonAnimation.anim
+  artifactKey: Guid(228c77d35c9285749bb9fbba94b0fa30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/Attack1SkeletonAnimation.anim using Guid(228c77d35c9285749bb9fbba94b0fa30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b850d0dddea90d17f3b915cfbc2d401') in 0.004483 seconds
+  Import took 0.010073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.836113 seconds.
+  path: Assets/Enemries/SkeletonBoss/Attack1SkeletonBossAnimation.anim
+  artifactKey: Guid(228c77d35c9285749bb9fbba94b0fa30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/Attack1SkeletonBossAnimation.anim using Guid(228c77d35c9285749bb9fbba94b0fa30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '650d671530920d85d839a95e6f056645') in 0.012039 seconds
+  Import took 0.018956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.665441 seconds.
+  path: Assets/Enemries/SkeletonBoss/Skeleton.controller
+  artifactKey: Guid(e29a316790041c2429947aa5df97cf60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/Skeleton.controller using Guid(e29a316790041c2429947aa5df97cf60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '868ee5d05744a5e8e07b0bcd43687468') in 0.020505 seconds
+  Import took 0.025902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.309823 seconds.
+  path: Assets/Enemries/SkeletonBoss/SkeletonBoss.controller
+  artifactKey: Guid(e29a316790041c2429947aa5df97cf60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/SkeletonBoss.controller using Guid(e29a316790041c2429947aa5df97cf60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04fe8f4ae22cb1f2d20887cebf2b3193') in 0.009218 seconds
+  Import took 0.015973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 168.913351 seconds.
+  path: Assets/Enemries/SkeletonBoss/SkeletonBoss.controller
+  artifactKey: Guid(e29a316790041c2429947aa5df97cf60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/SkeletonBoss.controller using Guid(e29a316790041c2429947aa5df97cf60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a772ea5d74c9eb76e75c1b54585b6e7c') in 0.006724 seconds
+  Import took 0.017296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000776 seconds.
+  path: Assets/Enemries/SkeletonBoss/SkeletonBoss.controller
+  artifactKey: Guid(e29a316790041c2429947aa5df97cf60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/SkeletonBoss.controller using Guid(e29a316790041c2429947aa5df97cf60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a772ea5d74c9eb76e75c1b54585b6e7c') in 0.006615 seconds
+  Import took 0.015049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 256.737710 seconds.
+  path: Assets/Enemries/SkeletonBoss/a.anim
+  artifactKey: Guid(99b231fe9c78d2d4cab3fb38451900bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/a.anim using Guid(99b231fe9c78d2d4cab3fb38451900bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a9e93cee8d6d22140a8b3e68dbe6c31') in 0.009872 seconds
+  Import took 0.019350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001242 seconds.
+  path: Assets/Enemries/SkeletonBoss/a.anim
+  artifactKey: Guid(99b231fe9c78d2d4cab3fb38451900bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/a.anim using Guid(99b231fe9c78d2d4cab3fb38451900bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a9e93cee8d6d22140a8b3e68dbe6c31') in 0.003673 seconds
+  Import took 0.011701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.877364 seconds.
+  path: Assets/Enemries/SkeletonBoss/Idle_0.controller
+  artifactKey: Guid(6a8eaab53f1fbda4ca5c75a34f0a01ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemries/SkeletonBoss/Idle_0.controller using Guid(6a8eaab53f1fbda4ca5c75a34f0a01ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9928947bb520f5dab3fc2b7ff135d19e') in 0.010961 seconds
+  Import took 0.017536 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
