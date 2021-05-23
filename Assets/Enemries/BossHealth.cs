@@ -12,7 +12,7 @@ public class BossHealth : MonoBehaviour
 
 	public bool isInvulnerable = false;
 
-	public void TakeDamage(float damage)
+	public void BossTakeDamage(float damage)
 	{
 		if (isInvulnerable)
 			return;

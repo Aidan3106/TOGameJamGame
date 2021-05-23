@@ -8,6 +8,8 @@ public class PlayerCombat : MonoBehaviour
 
     public Transform attackPoint;
     public float attackRange = 0.5f;
+    float playerAttack1 = 50.0f;
+    float playerAttack2 = 150.0f;
     public LayerMask enemyLayers;
     int numAttacks = 0;
     float attackSpeed = 1.0f;
@@ -43,7 +45,7 @@ public class PlayerCombat : MonoBehaviour
             Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
             foreach (Collider2D enemy in hitEnemies)
             {
-                Debug.Log("hit");
+                enemy.GetComponent<BossHealth>().BossTakeDamage(playerAttack1);
             }
         }
         else if (i > 1)
@@ -52,7 +54,7 @@ public class PlayerCombat : MonoBehaviour
             Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
             foreach (Collider2D enemy in hitEnemies)
             {
-                Debug.Log("hit");
+                enemy.GetComponent<BossHealth>().BossTakeDamage(playerAttack2);
             }
             //}
             //else if (i > 2)
